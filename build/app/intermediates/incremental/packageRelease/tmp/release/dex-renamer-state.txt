@@ -1,0 +1,4 @@
+#Wed Feb 24 12:26:07 WAT 2021
+base.0=C\:\\Projects\\229Market\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
